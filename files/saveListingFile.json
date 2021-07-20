@@ -1,0 +1,20 @@
+{
+   
+    "region_id":"1",
+    "category_id": "2160",
+    "districts_ids":[1],
+    "description": "aaa check law el listing de htzhar fl console456",
+    "title":"aaa check law el listing de htzhar fl console456",
+    "device_id": "web_user_00000123",
+    "extra_info": {
+        "type": "personal"
+    },
+    "images": [
+   
+        "1585660375290150645.jpg"
+    ],
+    "is_draft": 0,
+    "is_pm_enabled": 1,
+    "is_voip_enabled": 1,
+    "language": "ar"
+}
